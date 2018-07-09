@@ -1,0 +1,3 @@
+/Users/ferdinandtembo/CLionProjects/ComputerArchitecturePart1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/ferdinandtembo/CLionProjects/ComputerArchitecturePart1/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/ferdinandtembo/CLionProjects/ComputerArchitecturePart1/cmake-build-debug/CMakeFiles/ComputerArchitecturePart1.dir
